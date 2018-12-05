@@ -1,2 +1,4 @@
-print ("hello world")
-print ("hello world2")
+print ("Hello world")
+print ("Hello everybody")
+print ("Hello")
+print ("Hello my dear friend")
